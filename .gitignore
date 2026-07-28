@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated site (built in CI by GitHub Actions from source)
+site/
