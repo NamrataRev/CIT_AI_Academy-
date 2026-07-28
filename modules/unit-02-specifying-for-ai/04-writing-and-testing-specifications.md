@@ -1,8 +1,12 @@
-# Unit 2 — Specifying for AI
-## Topic 4: Writing and Testing Specifications
-
-*(Covers: Writing specifications across five domains — health, transport, education, food, scheduling · Testing a specification — how to verify the AI did exactly what you asked · Iterating a specification based on output gaps)*
-
+---
+layout: lesson
+title: "Writing and Testing Specifications"
+section: "Specifying for AI"
+section_order: 2
+order: 4
+nav_order: "0204"
+permalink: /specifying-for-ai/writing-and-testing-specifications/
+covers: "Writing specifications across five domains — health, transport, education, food, scheduling · Testing a specification — how to verify the AI did exactly what you asked · Iterating a specification based on output gaps"
 ---
 
 ## 1. Learning Objectives

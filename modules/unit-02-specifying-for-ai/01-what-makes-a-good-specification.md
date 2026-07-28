@@ -1,8 +1,12 @@
-# Unit 2 — Specifying for AI
-## Topic 1: What Makes a Good Specification
-
-*(Covers: What makes a good specification — testable, bounded, observable, actionable · Bad spec vs good spec — 'make it better' vs 'rewrite at Grade 8 level, max 80 words' · How to identify the inputs, expected outputs, and failure conditions of a task)*
-
+---
+layout: lesson
+title: "What Makes a Good Specification"
+section: "Specifying for AI"
+section_order: 2
+order: 1
+nav_order: "0201"
+permalink: /specifying-for-ai/what-makes-a-good-specification/
+covers: "What makes a good specification — testable, bounded, observable, actionable · Bad spec vs good spec — 'make it better' vs 'rewrite at Grade 8 level, max 80 words' · How to identify the inputs, expected outputs, and failure conditions of a task"
 ---
 
 ## 1. Learning Objectives

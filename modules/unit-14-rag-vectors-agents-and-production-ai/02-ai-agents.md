@@ -1,8 +1,12 @@
-# Unit 14 — RAG, Vectors, Agents and Production AI
-## Topic 2: AI Agents
-
-*(Covers: Agent anatomy · The ReAct pattern · Agent vs simpler flow · When NOT to use agents)*
-
+---
+layout: lesson
+title: "AI Agents"
+section: "RAG, Vectors, Agents and Production AI"
+section_order: 14
+order: 2
+nav_order: "1402"
+permalink: /rag-vectors-agents-and-production-ai/ai-agents/
+covers: "Agent anatomy · The ReAct pattern · Agent vs simpler flow · When NOT to use agents"
 ---
 
 ## 1. Learning Objectives

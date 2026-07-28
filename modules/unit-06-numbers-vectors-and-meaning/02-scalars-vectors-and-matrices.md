@@ -1,8 +1,12 @@
-# Unit 6 — Numbers, Vectors and Meaning
-## Topic 2: Scalars, Vectors and Matrices
-
-*(Covers: Scalars · Vectors · Matrices · A vector as a point in space — music taste described as three numbers)*
-
+---
+layout: lesson
+title: "Scalars, Vectors and Matrices"
+section: "Numbers, Vectors and Meaning"
+section_order: 6
+order: 2
+nav_order: "0602"
+permalink: /numbers-vectors-and-meaning/scalars-vectors-and-matrices/
+covers: "Scalars · Vectors · Matrices · A vector as a point in space — music taste described as three numbers"
 ---
 
 ## 1. Learning Objectives

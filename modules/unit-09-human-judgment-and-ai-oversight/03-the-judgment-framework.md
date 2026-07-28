@@ -1,8 +1,12 @@
-# Unit 9 — Human Judgment and AI Oversight
-## Topic 3: The Judgment Framework
-
-*(Covers: Q1 — What is the cost of this being wrong? · Q2 — Can I verify this without the AI? · Q3 — Who is accountable if this fails?)*
-
+---
+layout: lesson
+title: "The Judgment Framework"
+section: "Human Judgment and AI Oversight"
+section_order: 9
+order: 3
+nav_order: "0903"
+permalink: /human-judgment-and-ai-oversight/the-judgment-framework/
+covers: "Q1 — What is the cost of this being wrong? · Q2 — Can I verify this without the AI? · Q3 — Who is accountable if this fails?"
 ---
 
 ## 1. Learning Objectives

@@ -1,8 +1,12 @@
-# Unit 9 — Human Judgment and AI Oversight
-## Topic 2: Cognitive Biases and AI
-
-*(Covers: Confirmation bias · Anchoring bias · Automation bias · How human biases get encoded into AI training data)*
-
+---
+layout: lesson
+title: "Cognitive Biases and AI"
+section: "Human Judgment and AI Oversight"
+section_order: 9
+order: 2
+nav_order: "0902"
+permalink: /human-judgment-and-ai-oversight/cognitive-biases-and-ai/
+covers: "Confirmation bias · Anchoring bias · Automation bias · How human biases get encoded into AI training data"
 ---
 
 ## 1. Learning Objectives

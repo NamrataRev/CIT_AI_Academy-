@@ -1,8 +1,12 @@
-# Unit 1 — How Machines Think
-## Topic 5: Applying It to Your Domain
-
-*(Covers: Choosing your domain — writing a 3-sentence problem statement)*
-
+---
+layout: lesson
+title: "Applying It to Your Domain"
+section: "How Machines Think"
+section_order: 1
+order: 5
+nav_order: "0105"
+permalink: /how-machines-think/applying-it-to-your-domain/
+covers: "Choosing your domain — writing a 3-sentence problem statement"
 ---
 
 ## 1. Learning Objectives

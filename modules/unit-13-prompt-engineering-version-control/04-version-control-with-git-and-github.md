@@ -1,8 +1,12 @@
-# Unit 13 — Prompt Engineering + Version Control
-## Topic 4: Version Control with Git and GitHub
-
-*(Covers: Why version control matters · Git fundamentals · GitHub workflow · Folder structure and README · .gitignore · Commit discipline)*
-
+---
+layout: lesson
+title: "Version Control with Git and GitHub"
+section: "Prompt Engineering + Version Control"
+section_order: 13
+order: 4
+nav_order: "1304"
+permalink: /prompt-engineering-version-control/version-control-with-git-and-github/
+covers: "Why version control matters · Git fundamentals · GitHub workflow · Folder structure and README · .gitignore · Commit discipline"
 ---
 
 ## 1. Learning Objectives

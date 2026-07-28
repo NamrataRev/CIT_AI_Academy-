@@ -1,8 +1,12 @@
-# Unit 11 — Python Foundations I
-## Topic 2: Core Python Concepts
-
-*(Covers: Variables — naming and storing values · Data types — string, integer, float, boolean · If / else — writing decision logic in code · For loops — repeating an action across a list)*
-
+---
+layout: lesson
+title: "Core Python Concepts"
+section: "Python Foundations I"
+section_order: 11
+order: 2
+nav_order: "1102"
+permalink: /python-foundations-i/core-python-concepts/
+covers: "Variables — naming and storing values · Data types — string, integer, float, boolean · If / else — writing decision logic in code · For loops — repeating an action across a list"
 ---
 
 ## 1. Learning Objectives

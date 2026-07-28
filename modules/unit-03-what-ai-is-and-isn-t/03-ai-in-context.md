@@ -1,8 +1,12 @@
-# Unit 3 — What AI Is — and Isn't
-## Topic 3: AI in Context
-
-*(Covers: AI in India today — healthcare, agriculture, vernacular translation · The jagged frontier — tasks AI is superhuman at vs tasks where it is unreliable · Hallucination — what it is and why it happens)*
-
+---
+layout: lesson
+title: "AI in Context"
+section: "What AI Is — and Isn't"
+section_order: 3
+order: 3
+nav_order: "0303"
+permalink: /what-ai-is-and-isnt/ai-in-context/
+covers: "AI in India today — healthcare, agriculture, vernacular translation · The jagged frontier — tasks AI is superhuman at vs tasks where it is unreliable · Hallucination — what it is and why it happens"
 ---
 
 ## 1. Learning Objectives

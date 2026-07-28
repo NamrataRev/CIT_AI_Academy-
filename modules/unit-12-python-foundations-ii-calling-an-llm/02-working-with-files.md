@@ -1,8 +1,12 @@
-# Unit 12 — Python Foundations II + Calling an LLM
-## Topic 2: Working with Files
-
-*(Covers: Reading from a file · Writing to a file · try / except — handling errors gracefully)*
-
+---
+layout: lesson
+title: "Working with Files"
+section: "Python Foundations II + Calling an LLM"
+section_order: 12
+order: 2
+nav_order: "1202"
+permalink: /python-foundations-ii-calling-an-llm/working-with-files/
+covers: "Reading from a file · Writing to a file · try / except — handling errors gracefully"
 ---
 
 ## 1. Learning Objectives

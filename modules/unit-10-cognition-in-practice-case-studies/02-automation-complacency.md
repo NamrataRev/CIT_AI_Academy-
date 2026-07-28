@@ -1,8 +1,12 @@
-# Unit 10 — Cognition in Practice — Case Studies
-## Topic 2: Automation Complacency
-
-*(Covers: Automation complacency — how high accuracy makes humans less vigilant)*
-
+---
+layout: lesson
+title: "Automation Complacency"
+section: "Cognition in Practice — Case Studies"
+section_order: 10
+order: 2
+nav_order: "1002"
+permalink: /cognition-in-practice-case-studies/automation-complacency/
+covers: "Automation complacency — how high accuracy makes humans less vigilant"
 ---
 
 ## 1. Learning Objectives

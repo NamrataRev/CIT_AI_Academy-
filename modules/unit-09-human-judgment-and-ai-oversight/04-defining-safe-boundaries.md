@@ -1,8 +1,12 @@
-# Unit 9 — Human Judgment and AI Oversight
-## Topic 4: Defining Safe Boundaries
-
-*(Covers: Acceptable error — defining the failure threshold tolerable for a use case · High-stakes domains where AI must not have the final word — medical, legal, safety)*
-
+---
+layout: lesson
+title: "Defining Safe Boundaries"
+section: "Human Judgment and AI Oversight"
+section_order: 9
+order: 4
+nav_order: "0904"
+permalink: /human-judgment-and-ai-oversight/defining-safe-boundaries/
+covers: "Acceptable error — defining the failure threshold tolerable for a use case · High-stakes domains where AI must not have the final word — medical, legal, safety"
 ---
 
 ## 1. Learning Objectives

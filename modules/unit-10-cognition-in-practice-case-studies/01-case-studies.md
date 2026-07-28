@@ -1,8 +1,12 @@
-# Unit 10 — Cognition in Practice — Case Studies
-## Topic 1: Case Studies
-
-*(Covers: Case study — AI in college admissions · Case study — automated medical triage · Case study — AI loan approval at scale)*
-
+---
+layout: lesson
+title: "Case Studies"
+section: "Cognition in Practice — Case Studies"
+section_order: 10
+order: 1
+nav_order: "1001"
+permalink: /cognition-in-practice-case-studies/case-studies/
+covers: "Case study — AI in college admissions · Case study — automated medical triage · Case study — AI loan approval at scale"
 ---
 
 ## 1. Learning Objectives

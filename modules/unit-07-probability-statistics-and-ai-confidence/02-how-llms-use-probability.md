@@ -1,8 +1,12 @@
-# Unit 7 — Probability, Statistics and AI Confidence
-## Topic 2: How LLMs Use Probability
-
-*(Covers: Why LLMs output a probability distribution, not a single fixed answer · Temperature — low picks the most likely token, high introduces variation)*
-
+---
+layout: lesson
+title: "How LLMs Use Probability"
+section: "Probability, Statistics and AI Confidence"
+section_order: 7
+order: 2
+nav_order: "0702"
+permalink: /probability-statistics-and-ai-confidence/how-llms-use-probability/
+covers: "Why LLMs output a probability distribution, not a single fixed answer · Temperature — low picks the most likely token, high introduces variation"
 ---
 
 ## 1. Learning Objectives

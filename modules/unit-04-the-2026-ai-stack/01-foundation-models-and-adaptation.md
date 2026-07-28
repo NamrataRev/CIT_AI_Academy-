@@ -1,8 +1,12 @@
-# Unit 4 — The 2026 AI Stack
-## Topic 1: Foundation Models and Adaptation
-
-*(Covers: Foundation models — trained once at scale, usable for many tasks · Fine-tuning — adapting a foundation model on domain-specific data)*
-
+---
+layout: lesson
+title: "Foundation Models and Adaptation"
+section: "The 2026 AI Stack"
+section_order: 4
+order: 1
+nav_order: "0401"
+permalink: /the-2026-ai-stack/foundation-models-and-adaptation/
+covers: "Foundation models — trained once at scale, usable for many tasks · Fine-tuning — adapting a foundation model on domain-specific data"
 ---
 
 ## 1. Learning Objectives

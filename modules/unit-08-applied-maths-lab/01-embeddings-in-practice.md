@@ -1,8 +1,12 @@
-# Unit 8 — Applied Maths Lab
-## Topic 1: Embeddings in Practice
-
-*(Covers: Embedding explorer — comparing domain-specific word clusters in 2D · Similarity scoring — computing cosine similarity between sentence pairs)*
-
+---
+layout: lesson
+title: "Embeddings in Practice"
+section: "Applied Maths Lab"
+section_order: 8
+order: 1
+nav_order: "0801"
+permalink: /applied-maths-lab/embeddings-in-practice/
+covers: "Embedding explorer — comparing domain-specific word clusters in 2D · Similarity scoring — computing cosine similarity between sentence pairs"
 ---
 
 ## 1. Learning Objectives

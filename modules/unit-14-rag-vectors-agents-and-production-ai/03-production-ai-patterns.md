@@ -1,8 +1,12 @@
-# Unit 14 — RAG, Vectors, Agents and Production AI
-## Topic 3: Production AI Patterns
-
-*(Covers: Production AI patterns — cost, latency, and reliability trade-offs · Writing an architectural decision)*
-
+---
+layout: lesson
+title: "Production AI Patterns"
+section: "RAG, Vectors, Agents and Production AI"
+section_order: 14
+order: 3
+nav_order: "1403"
+permalink: /rag-vectors-agents-and-production-ai/production-ai-patterns/
+covers: "Production AI patterns — cost, latency, and reliability trade-offs · Writing an architectural decision"
 ---
 
 ## 1. Learning Objectives

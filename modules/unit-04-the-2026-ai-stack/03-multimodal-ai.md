@@ -1,8 +1,12 @@
-# Unit 4 — The 2026 AI Stack
-## Topic 3: Multimodal AI
-
-*(Covers: Multimodal AI — working with text, image, audio, and video in one system)*
-
+---
+layout: lesson
+title: "Multimodal AI"
+section: "The 2026 AI Stack"
+section_order: 4
+order: 3
+nav_order: "0403"
+permalink: /the-2026-ai-stack/multimodal-ai/
+covers: "Multimodal AI — working with text, image, audio, and video in one system"
 ---
 
 ## 1. Learning Objectives

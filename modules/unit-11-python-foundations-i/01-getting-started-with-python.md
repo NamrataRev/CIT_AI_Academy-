@@ -1,8 +1,12 @@
-# Unit 11 — Python Foundations I
-## Topic 1: Getting Started with Python
-
-*(Covers: Python's role — the orchestration layer connecting your specification to an AI system · Setting up Google Colab — no installation, runs in the browser)*
-
+---
+layout: lesson
+title: "Getting Started with Python"
+section: "Python Foundations I"
+section_order: 11
+order: 1
+nav_order: "1101"
+permalink: /python-foundations-i/getting-started-with-python/
+covers: "Python's role — the orchestration layer connecting your specification to an AI system · Setting up Google Colab — no installation, runs in the browser"
 ---
 
 ## 1. Learning Objectives

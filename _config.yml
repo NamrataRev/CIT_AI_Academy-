@@ -1,0 +1,32 @@
+title: "CIT AI-Native Engineering"
+tagline: "Year 1 · Semester 1"
+description: >-
+  Revature CIT AI-Native Engineering Program — a complete learning path from how
+  machines think to building, evaluating and shipping production AI.
+
+# Served at https://namratarev.github.io/CIT_AI_Academy-/
+url: "https://namratarev.github.io"
+baseurl: "/CIT_AI_Academy-"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Lesson pages live in modules/ and already carry `layout: lesson` in their
+# front matter; this default is a safety net.
+defaults:
+  - scope:
+      path: "modules"
+    values:
+      layout: "lesson"
+
+exclude:
+  - build_jekyll.py
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - reference-materials
+  - cit-sem1-study-guide.md
+  - README.md
+  - .gitignore

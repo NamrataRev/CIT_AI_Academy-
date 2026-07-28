@@ -1,8 +1,12 @@
-# Unit 7 — Probability, Statistics and AI Confidence
-## Topic 3: Measuring AI Performance
-
-*(Covers: Mean, median, mode — measuring consistency across AI runs · Accuracy · Precision · Recall · Confusion matrix · Interpreting AI output variation)*
-
+---
+layout: lesson
+title: "Measuring AI Performance"
+section: "Probability, Statistics and AI Confidence"
+section_order: 7
+order: 3
+nav_order: "0703"
+permalink: /probability-statistics-and-ai-confidence/measuring-ai-performance/
+covers: "Mean, median, mode — measuring consistency across AI runs · Accuracy · Precision · Recall · Confusion matrix · Interpreting AI output variation"
 ---
 
 ## 1. Learning Objectives

@@ -1,8 +1,12 @@
-# Unit 12 — Python Foundations II + Calling an LLM
-## Topic 1: Functions and Data Structures
-
-*(Covers: Functions — named, reusable blocks of logic · Parameters and return values · One function = one job · Lists · Dictionaries)*
-
+---
+layout: lesson
+title: "Functions and Data Structures"
+section: "Python Foundations II + Calling an LLM"
+section_order: 12
+order: 1
+nav_order: "1201"
+permalink: /python-foundations-ii-calling-an-llm/functions-and-data-structures/
+covers: "Functions — named, reusable blocks of logic · Parameters and return values · One function = one job · Lists · Dictionaries"
 ---
 
 ## 1. Learning Objectives

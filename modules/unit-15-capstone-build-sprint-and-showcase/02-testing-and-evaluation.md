@@ -1,8 +1,12 @@
-# Unit 15 — Capstone Build Sprint and Showcase
-## Topic 2: Testing and Evaluation
-
-*(Covers: Building a 5-case evaluation harness · Applying the Judgment Framework — documenting the human override point per component · Estimating and documenting API cost and latency · Red-teaming your own system — 3 adversarial inputs, results, and mitigations · Failure handling — what the system returns when the AI call or validation fails)*
-
+---
+layout: lesson
+title: "Testing and Evaluation"
+section: "Capstone Build Sprint and Showcase"
+section_order: 15
+order: 2
+nav_order: "1502"
+permalink: /capstone-build-sprint-and-showcase/testing-and-evaluation/
+covers: "Building a 5-case evaluation harness · Applying the Judgment Framework — documenting the human override point per component · Estimating and documenting API cost and latency · Red-teaming your own system — 3 adversarial inputs, results, and mitigations · Failure handling — what the system returns when the AI call or validation fails"
 ---
 
 ## 1. Learning Objectives

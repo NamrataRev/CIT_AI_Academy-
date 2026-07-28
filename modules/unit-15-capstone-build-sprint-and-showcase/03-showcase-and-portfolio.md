@@ -1,8 +1,12 @@
-# Unit 15 — Capstone Build Sprint and Showcase
-## Topic 3: Showcase and Portfolio
-
-*(Covers: Presenting: Problem → Spec → Live Demo → Eval Results → Judgment Framework → Cost → 3 Learnings · Submitting the GitHub portfolio — notebooks, specs, eval harness, AI Decision Journal, reflection)*
-
+---
+layout: lesson
+title: "Showcase and Portfolio"
+section: "Capstone Build Sprint and Showcase"
+section_order: 15
+order: 3
+nav_order: "1503"
+permalink: /capstone-build-sprint-and-showcase/showcase-and-portfolio/
+covers: "Presenting: Problem → Spec → Live Demo → Eval Results → Judgment Framework → Cost → 3 Learnings · Submitting the GitHub portfolio — notebooks, specs, eval harness, AI Decision Journal, reflection"
 ---
 
 ## 1. Learning Objectives

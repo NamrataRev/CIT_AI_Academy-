@@ -1,8 +1,12 @@
-# Unit 13 — Prompt Engineering + Version Control
-## Topic 3: Output Validation and Retry
-
-*(Covers: Output validation — checking the AI's response meets the required format · Retry logic — what to do when validation fails)*
-
+---
+layout: lesson
+title: "Output Validation and Retry"
+section: "Prompt Engineering + Version Control"
+section_order: 13
+order: 3
+nav_order: "1303"
+permalink: /prompt-engineering-version-control/output-validation-and-retry/
+covers: "Output validation — checking the AI's response meets the required format · Retry logic — what to do when validation fails"
 ---
 
 ## 1. Learning Objectives

@@ -1,8 +1,12 @@
-# Unit 8 — Applied Maths Lab
-## Topic 2: Evaluation Metrics in Depth
-
-*(Covers: Precision vs recall trade-off — when does recall matter more than precision? · F1 score — balancing precision and recall into one metric · Computing accuracy, precision, recall, and F1 by hand from a confusion matrix)*
-
+---
+layout: lesson
+title: "Evaluation Metrics in Depth"
+section: "Applied Maths Lab"
+section_order: 8
+order: 2
+nav_order: "0802"
+permalink: /applied-maths-lab/evaluation-metrics-in-depth/
+covers: "Precision vs recall trade-off — when does recall matter more than precision? · F1 score — balancing precision and recall into one metric · Computing accuracy, precision, recall, and F1 by hand from a confusion matrix"
 ---
 
 ## 1. Learning Objectives

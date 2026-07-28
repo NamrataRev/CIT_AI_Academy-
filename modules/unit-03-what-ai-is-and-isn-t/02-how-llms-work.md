@@ -1,8 +1,12 @@
-# Unit 3 — What AI Is — and Isn't
-## Topic 2: How LLMs Work
-
-*(Covers: How LLMs work — tokens, training, and inference · What parameters are and why they matter · Temperature and sampling — why the same question gives different answers)*
-
+---
+layout: lesson
+title: "How LLMs Work"
+section: "What AI Is — and Isn't"
+section_order: 3
+order: 2
+nav_order: "0302"
+permalink: /what-ai-is-and-isnt/how-llms-work/
+covers: "How LLMs work — tokens, training, and inference · What parameters are and why they matter · Temperature and sampling — why the same question gives different answers"
 ---
 
 ## 1. Learning Objectives

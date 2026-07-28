@@ -1,8 +1,12 @@
-# Unit 4 — The 2026 AI Stack
-## Topic 2: Retrieval, Agents and Tools
-
-*(Covers: Retrieval-Augmented Generation (RAG) — giving AI access to external knowledge at query time · Agents — LLM plus memory, tools, and a planning loop (conceptual introduction) · Tool use — AI calling search, calculator, and code runner)*
-
+---
+layout: lesson
+title: "Retrieval, Agents and Tools"
+section: "The 2026 AI Stack"
+section_order: 4
+order: 2
+nav_order: "0402"
+permalink: /the-2026-ai-stack/retrieval-agents-and-tools/
+covers: "Retrieval-Augmented Generation (RAG) — giving AI access to external knowledge at query time · Agents — LLM plus memory, tools, and a planning loop (conceptual introduction) · Tool use — AI calling search, calculator, and code runner"
 ---
 
 ## 1. Learning Objectives

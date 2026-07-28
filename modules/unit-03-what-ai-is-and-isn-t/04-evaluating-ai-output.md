@@ -1,8 +1,12 @@
-# Unit 3 — What AI Is — and Isn't
-## Topic 4: Evaluating AI Output
-
-*(Covers: How to evaluate AI output across five task types — creative, factual, logical, ethical, coding)*
-
+---
+layout: lesson
+title: "Evaluating AI Output"
+section: "What AI Is — and Isn't"
+section_order: 3
+order: 4
+nav_order: "0304"
+permalink: /what-ai-is-and-isnt/evaluating-ai-output/
+covers: "How to evaluate AI output across five task types — creative, factual, logical, ethical, coding"
 ---
 
 ## 1. Learning Objectives

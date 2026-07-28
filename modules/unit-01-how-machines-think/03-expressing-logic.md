@@ -1,8 +1,12 @@
-# Unit 1 — How Machines Think
-## Topic 3: Expressing Logic
-
-*(Covers: Pseudocode — writing logic in plain English before writing code · Flowcharts — visualising logic with standard shapes and arrows)*
-
+---
+layout: lesson
+title: "Expressing Logic"
+section: "How Machines Think"
+section_order: 1
+order: 3
+nav_order: "0103"
+permalink: /how-machines-think/expressing-logic/
+covers: "Pseudocode — writing logic in plain English before writing code · Flowcharts — visualising logic with standard shapes and arrows"
 ---
 
 ## 1. Learning Objectives

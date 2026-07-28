@@ -1,8 +1,12 @@
-# Unit 5 — AI Ethics, Safety and Governance
-## Topic 3: Safety Practices
-
-*(Covers: Red-teaming — systematically testing your own system for failure before deployment · Prompt injection — how attackers manipulate AI through crafted inputs)*
-
+---
+layout: lesson
+title: "Safety Practices"
+section: "AI Ethics, Safety and Governance"
+section_order: 5
+order: 3
+nav_order: "0503"
+permalink: /ai-ethics-safety-and-governance/safety-practices/
+covers: "Red-teaming — systematically testing your own system for failure before deployment · Prompt injection — how attackers manipulate AI through crafted inputs"
 ---
 
 ## 1. Learning Objectives

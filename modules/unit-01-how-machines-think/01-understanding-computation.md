@@ -1,8 +1,12 @@
-# Unit 1 — How Machines Think
-## Topic 1: Understanding Computation
-
-*(Covers: What is computation · Deterministic systems · Probabilistic systems · Why AI gives different answers to the same question)*
-
+---
+layout: lesson
+title: "Understanding Computation"
+section: "How Machines Think"
+section_order: 1
+order: 1
+nav_order: "0101"
+permalink: /how-machines-think/understanding-computation/
+covers: "What is computation · Deterministic systems · Probabilistic systems · Why AI gives different answers to the same question"
 ---
 
 ## 1. Learning Objectives

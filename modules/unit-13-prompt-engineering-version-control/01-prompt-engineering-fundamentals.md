@@ -1,8 +1,12 @@
-# Unit 13 — Prompt Engineering + Version Control
-## Topic 1: Prompt Engineering Fundamentals
-
-*(Covers: System prompt vs user prompt · Role assignment · Few-shot examples · Chain-of-thought prompting · Constraints · Output format control)*
-
+---
+layout: lesson
+title: "Prompt Engineering Fundamentals"
+section: "Prompt Engineering + Version Control"
+section_order: 13
+order: 1
+nav_order: "1301"
+permalink: /prompt-engineering-version-control/prompt-engineering-fundamentals/
+covers: "System prompt vs user prompt · Role assignment · Few-shot examples · Chain-of-thought prompting · Constraints · Output format control"
 ---
 
 ## 1. Learning Objectives

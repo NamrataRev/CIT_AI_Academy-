@@ -1,8 +1,12 @@
-# Unit 3 — What AI Is — and Isn't
-## Topic 1: A Brief History of AI
-
-*(Covers: History of AI — symbolic AI to machine learning to deep learning · The rise of large language models (LLMs) · The move to AI agents)*
-
+---
+layout: lesson
+title: "A Brief History of AI"
+section: "What AI Is — and Isn't"
+section_order: 3
+order: 1
+nav_order: "0301"
+permalink: /what-ai-is-and-isnt/a-brief-history-of-ai/
+covers: "History of AI — symbolic AI to machine learning to deep learning · The rise of large language models (LLMs) · The move to AI agents"
 ---
 
 ## 1. Learning Objectives

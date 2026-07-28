@@ -1,8 +1,12 @@
-# Unit 6 — Numbers, Vectors and Meaning
-## Topic 4: Hands-on Exploration
-
-*(Covers: Using the TensorFlow Embedding Projector to explore word clusters)*
-
+---
+layout: lesson
+title: "Hands-on Exploration"
+section: "Numbers, Vectors and Meaning"
+section_order: 6
+order: 4
+nav_order: "0604"
+permalink: /numbers-vectors-and-meaning/hands-on-exploration/
+covers: "Using the TensorFlow Embedding Projector to explore word clusters"
 ---
 
 ## 1. Learning Objectives

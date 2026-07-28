@@ -1,8 +1,12 @@
-# Unit 8 — Applied Maths Lab
-## Topic 3: Model Calibration
-
-*(Covers: Calibration — does the model's stated confidence match its actual accuracy?)*
-
+---
+layout: lesson
+title: "Model Calibration"
+section: "Applied Maths Lab"
+section_order: 8
+order: 3
+nav_order: "0803"
+permalink: /applied-maths-lab/model-calibration/
+covers: "Calibration — does the model's stated confidence match its actual accuracy?"
 ---
 
 ## 1. Learning Objectives

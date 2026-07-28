@@ -1,8 +1,12 @@
-# Unit 4 — The 2026 AI Stack
-## Topic 4: Comparing and Evaluating AI Tools
-
-*(Covers: How to compare two AI tools — designing a measurable evaluation rubric · Presenting a findings-based recommendation — evidence, not opinion)*
-
+---
+layout: lesson
+title: "Comparing and Evaluating AI Tools"
+section: "The 2026 AI Stack"
+section_order: 4
+order: 4
+nav_order: "0404"
+permalink: /the-2026-ai-stack/comparing-and-evaluating-ai-tools/
+covers: "How to compare two AI tools — designing a measurable evaluation rubric · Presenting a findings-based recommendation — evidence, not opinion"
 ---
 
 ## 1. Learning Objectives

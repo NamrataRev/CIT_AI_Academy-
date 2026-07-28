@@ -1,8 +1,12 @@
-# Unit 1 — How Machines Think
-## Topic 4: Algorithmic Thinking
-
-*(Covers: Algorithmic thinking — what makes a set of steps an algorithm · Algorithms in everyday life — recipes, GPS routes, sorting queues · The four properties of a good algorithm — finite, definite, input, output)*
-
+---
+layout: lesson
+title: "Algorithmic Thinking"
+section: "How Machines Think"
+section_order: 1
+order: 4
+nav_order: "0104"
+permalink: /how-machines-think/algorithmic-thinking/
+covers: "Algorithmic thinking — what makes a set of steps an algorithm · Algorithms in everyday life — recipes, GPS routes, sorting queues · The four properties of a good algorithm — finite, definite, input, output"
 ---
 
 ## 1. Learning Objectives

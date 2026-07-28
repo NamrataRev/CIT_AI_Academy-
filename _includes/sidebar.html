@@ -1,0 +1,18 @@
+{%- assign lessons = site.pages | where_exp: "p", "p.section" | sort: "nav_order" -%}
+{%- assign grouped = lessons | group_by: "section" -%}
+<nav class="side-nav" aria-label="Course sections">
+{%- for grp in grouped -%}
+  {%- assign is_current = false -%}
+  {%- for l in grp.items -%}{%- if l.url == page.url -%}{%- assign is_current = true -%}{%- endif -%}{%- endfor -%}
+  <details class="nav-group"{% if is_current %} open{% endif %}>
+    <summary class="nav-section">{{ grp.name }}</summary>
+    <ul class="nav-topics">
+    {%- for l in grp.items -%}
+      <li{% if l.url == page.url %} class="active"{% endif %}>
+        <a href="{{ l.url | relative_url }}"{% if l.url == page.url %} aria-current="page"{% endif %}>{{ l.title }}</a>
+      </li>
+    {%- endfor -%}
+    </ul>
+  </details>
+{%- endfor -%}
+</nav>

@@ -1,8 +1,12 @@
-# Unit 10 — Cognition in Practice — Case Studies
-## Topic 3: Designing Human Oversight
-
-*(Covers: Designing human-in-the-loop checkpoints — when to require sign-off vs allow autonomous action · Identifying which components in your system need a mandatory human checkpoint)*
-
+---
+layout: lesson
+title: "Designing Human Oversight"
+section: "Cognition in Practice — Case Studies"
+section_order: 10
+order: 3
+nav_order: "1003"
+permalink: /cognition-in-practice-case-studies/designing-human-oversight/
+covers: "Designing human-in-the-loop checkpoints — when to require sign-off vs allow autonomous action · Identifying which components in your system need a mandatory human checkpoint"
 ---
 
 ## 1. Learning Objectives

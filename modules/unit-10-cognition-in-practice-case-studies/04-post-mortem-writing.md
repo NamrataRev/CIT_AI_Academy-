@@ -1,8 +1,12 @@
-# Unit 10 — Cognition in Practice — Case Studies
-## Topic 4: Post-Mortem Writing
-
-*(Covers: Writing a post-mortem — what failed, why, who was accountable, what governance would have prevented it)*
-
+---
+layout: lesson
+title: "Post-Mortem Writing"
+section: "Cognition in Practice — Case Studies"
+section_order: 10
+order: 4
+nav_order: "1004"
+permalink: /cognition-in-practice-case-studies/post-mortem-writing/
+covers: "Writing a post-mortem — what failed, why, who was accountable, what governance would have prevented it"
 ---
 
 ## 1. Learning Objectives

@@ -1,8 +1,12 @@
-# Unit 7 — Probability, Statistics and AI Confidence
-## Topic 1: Probability Foundations
-
-*(Covers: Probability basics — likelihood, events, outcomes · Conditional probability — P(A given B) · Bayes' theorem intuition — updating belief with new evidence)*
-
+---
+layout: lesson
+title: "Probability Foundations"
+section: "Probability, Statistics and AI Confidence"
+section_order: 7
+order: 1
+nav_order: "0701"
+permalink: /probability-statistics-and-ai-confidence/probability-foundations/
+covers: "Probability basics — likelihood, events, outcomes · Conditional probability — P(A given B) · Bayes' theorem intuition — updating belief with new evidence"
 ---
 
 ## 1. Learning Objectives

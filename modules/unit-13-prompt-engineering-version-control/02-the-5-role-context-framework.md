@@ -1,8 +1,12 @@
-# Unit 13 — Prompt Engineering + Version Control
-## Topic 2: The 5-Role Context Framework
-
-*(Covers: The 5-role context framework — Authority, Exemplar, Constraint, Rubric, Metadata)*
-
+---
+layout: lesson
+title: "The 5-Role Context Framework"
+section: "Prompt Engineering + Version Control"
+section_order: 13
+order: 2
+nav_order: "1302"
+permalink: /prompt-engineering-version-control/the-5-role-context-framework/
+covers: "The 5-role context framework — Authority, Exemplar, Constraint, Rubric, Metadata"
 ---
 
 ## 1. Learning Objectives

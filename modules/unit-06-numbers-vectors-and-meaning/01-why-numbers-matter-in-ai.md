@@ -1,8 +1,12 @@
-# Unit 6 — Numbers, Vectors and Meaning
-## Topic 1: Why Numbers Matter in AI
-
-*(Covers: Why every AI system is built on numbers)*
-
+---
+layout: lesson
+title: "Why Numbers Matter in AI"
+section: "Numbers, Vectors and Meaning"
+section_order: 6
+order: 1
+nav_order: "0601"
+permalink: /numbers-vectors-and-meaning/why-numbers-matter-in-ai/
+covers: "Why every AI system is built on numbers"
 ---
 
 ## 1. Learning Objectives

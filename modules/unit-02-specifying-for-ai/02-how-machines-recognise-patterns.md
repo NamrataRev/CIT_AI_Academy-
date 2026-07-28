@@ -1,8 +1,12 @@
-# Unit 2 — Specifying for AI
-## Topic 2: How Machines Recognise Patterns
-
-*(Covers: Pattern recognition — how machines find rules in repeated data)*
-
+---
+layout: lesson
+title: "How Machines Recognise Patterns"
+section: "Specifying for AI"
+section_order: 2
+order: 2
+nav_order: "0202"
+permalink: /specifying-for-ai/how-machines-recognise-patterns/
+covers: "Pattern recognition — how machines find rules in repeated data"
 ---
 
 ## 1. Learning Objectives

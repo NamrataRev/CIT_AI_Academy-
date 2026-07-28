@@ -1,8 +1,12 @@
-# Unit 6 — Numbers, Vectors and Meaning
-## Topic 3: Similarity and Meaning
-
-*(Covers: Dot product as similarity · Embeddings · Why "king − man + woman ≈ queen" works · Cosine similarity)*
-
+---
+layout: lesson
+title: "Similarity and Meaning"
+section: "Numbers, Vectors and Meaning"
+section_order: 6
+order: 3
+nav_order: "0603"
+permalink: /numbers-vectors-and-meaning/similarity-and-meaning/
+covers: "Dot product as similarity · Embeddings · Why \"king − man + woman ≈ queen\" works · Cosine similarity"
 ---
 
 ## 1. Learning Objectives

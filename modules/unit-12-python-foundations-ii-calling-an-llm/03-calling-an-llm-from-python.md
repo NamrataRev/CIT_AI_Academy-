@@ -1,8 +1,12 @@
-# Unit 12 — Python Foundations II + Calling an LLM
-## Topic 3: Calling an LLM from Python
-
-*(Covers: What an API is · The Anthropic API · Making the first API call · Parsing the JSON response · Handling API errors · Every API call is a design decision)*
-
+---
+layout: lesson
+title: "Calling an LLM from Python"
+section: "Python Foundations II + Calling an LLM"
+section_order: 12
+order: 3
+nav_order: "1203"
+permalink: /python-foundations-ii-calling-an-llm/calling-an-llm-from-python/
+covers: "What an API is · The Anthropic API · Making the first API call · Parsing the JSON response · Handling API errors · Every API call is a design decision"
 ---
 
 ## 1. Learning Objectives

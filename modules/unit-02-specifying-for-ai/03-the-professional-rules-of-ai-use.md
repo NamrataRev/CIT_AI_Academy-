@@ -1,8 +1,12 @@
-# Unit 2 — Specifying for AI
-## Topic 3: The Professional Rules of AI Use
-
-*(Covers: The 70/30 rule — AI implements, you specify and verify · When NOT to use AI — privacy, precision, legal accountability)*
-
+---
+layout: lesson
+title: "The Professional Rules of AI Use"
+section: "Specifying for AI"
+section_order: 2
+order: 3
+nav_order: "0203"
+permalink: /specifying-for-ai/the-professional-rules-of-ai-use/
+covers: "The 70/30 rule — AI implements, you specify and verify · When NOT to use AI — privacy, precision, legal accountability"
 ---
 
 ## 1. Learning Objectives

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+{% include head.html %}
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <button class="menu-toggle" aria-label="Toggle navigation" onclick="document.body.classList.toggle('nav-open')">
+    <span></span><span></span><span></span>
+  </button>
+  <a class="brand" href="{{ '/' | relative_url }}">
+    <img src="{{ '/assets/img/logo.svg' | relative_url }}" alt="Revature" class="brand-logo">
+    <span class="brand-divider"></span>
+    <span class="brand-text"><strong>CIT</strong> AI-Native Engineering</span>
+  </a>
+  <button class="theme-toggle" aria-label="Toggle dark mode" onclick="toggleTheme()">
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path></svg>
+  </button>
+</header>
+<div class="layout">
+  <aside class="sidebar" id="sidebar">
+    {% include sidebar.html %}
+  </aside>
+  <div class="nav-scrim" onclick="document.body.classList.remove('nav-open')"></div>
+  <main class="content" id="main">
+    {{ content }}
+  </main>
+</div>
+<script src="{{ '/assets/js/app.js' | relative_url }}"></script>
+</body>
+</html>

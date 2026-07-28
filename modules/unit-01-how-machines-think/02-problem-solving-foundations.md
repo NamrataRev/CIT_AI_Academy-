@@ -1,8 +1,12 @@
-# Unit 1 — How Machines Think
-## Topic 2: Problem-Solving Foundations
-
-*(Covers: Decomposition — breaking a big problem into smaller solvable parts · Abstraction — hiding complexity at the right level)*
-
+---
+layout: lesson
+title: "Problem-Solving Foundations"
+section: "How Machines Think"
+section_order: 1
+order: 2
+nav_order: "0102"
+permalink: /how-machines-think/problem-solving-foundations/
+covers: "Decomposition — breaking a big problem into smaller solvable parts · Abstraction — hiding complexity at the right level"
 ---
 
 ## 1. Learning Objectives

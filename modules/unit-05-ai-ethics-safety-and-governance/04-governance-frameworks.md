@@ -1,8 +1,12 @@
-# Unit 5 — AI Ethics, Safety and Governance
-## Topic 4: Governance Frameworks
-
-*(Covers: EU AI Act — risk tiers · EU AI Act — obligations for high-risk systems · EU AI Act — prohibited uses · NIST AI Risk Management Framework · White House Executive Order on AI (2023) · India AI governance — MEITY advisory guidelines · Knowing which governance framework applies to your system)*
-
+---
+layout: lesson
+title: "Governance Frameworks"
+section: "AI Ethics, Safety and Governance"
+section_order: 5
+order: 4
+nav_order: "0504"
+permalink: /ai-ethics-safety-and-governance/governance-frameworks/
+covers: "EU AI Act — risk tiers · EU AI Act — obligations for high-risk systems · EU AI Act — prohibited uses · NIST AI Risk Management Framework · White House Executive Order on AI (2023) · India AI governance — MEITY advisory guidelines · Knowing which governance framework applies to your system"
 ---
 
 ## 1. Learning Objectives

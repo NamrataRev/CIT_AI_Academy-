@@ -1,8 +1,12 @@
-# Unit 5 — AI Ethics, Safety and Governance
-## Topic 1: AI Failures and Why They Happen
-
-*(Covers: Real AI failure cases — healthcare misdiagnosis, hiring bias, deepfake harm · Hallucination — why AI states falsehoods confidently · Data bias — how biased training data produces biased model output)*
-
+---
+layout: lesson
+title: "AI Failures and Why They Happen"
+section: "AI Ethics, Safety and Governance"
+section_order: 5
+order: 1
+nav_order: "0501"
+permalink: /ai-ethics-safety-and-governance/ai-failures-and-why-they-happen/
+covers: "Real AI failure cases — healthcare misdiagnosis, hiring bias, deepfake harm · Hallucination — why AI states falsehoods confidently · Data bias — how biased training data produces biased model output"
 ---
 
 ## 1. Learning Objectives

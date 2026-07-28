@@ -1,8 +1,12 @@
-# Unit 9 — Human Judgment and AI Oversight
-## Topic 1: How Humans Think
-
-*(Covers: System 1 thinking — fast, instinctive, automatic · System 2 thinking — slow, deliberate, effortful)*
-
+---
+layout: lesson
+title: "How Humans Think"
+section: "Human Judgment and AI Oversight"
+section_order: 9
+order: 1
+nav_order: "0901"
+permalink: /human-judgment-and-ai-oversight/how-humans-think/
+covers: "System 1 thinking — fast, instinctive, automatic · System 2 thinking — slow, deliberate, effortful"
 ---
 
 ## 1. Learning Objectives

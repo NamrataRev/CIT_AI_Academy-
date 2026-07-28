@@ -1,8 +1,12 @@
-# Unit 14 — RAG, Vectors, Agents and Production AI
-## Topic 1: Retrieval-Augmented Generation (RAG)
-
-*(Covers: Vector databases · The RAG retrieval pipeline · Why RAG reduces hallucination · When to use RAG)*
-
+---
+layout: lesson
+title: "Retrieval-Augmented Generation (RAG)"
+section: "RAG, Vectors, Agents and Production AI"
+section_order: 14
+order: 1
+nav_order: "1401"
+permalink: /rag-vectors-agents-and-production-ai/retrieval-augmented-generation-rag/
+covers: "Vector databases · The RAG retrieval pipeline · Why RAG reduces hallucination · When to use RAG"
 ---
 
 ## 1. Learning Objectives

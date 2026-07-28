@@ -1,8 +1,12 @@
-# Unit 8 — Applied Maths Lab
-## Topic 4: Planning Your Capstone Evaluation
-
-*(Covers: Designing a domain evaluation plan — metric, test set size, pass/fail threshold)*
-
+---
+layout: lesson
+title: "Planning Your Capstone Evaluation"
+section: "Applied Maths Lab"
+section_order: 8
+order: 4
+nav_order: "0804"
+permalink: /applied-maths-lab/planning-your-capstone-evaluation/
+covers: "Designing a domain evaluation plan — metric, test set size, pass/fail threshold"
 ---
 
 ## 1. Learning Objectives

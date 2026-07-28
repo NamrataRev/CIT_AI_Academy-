@@ -1,8 +1,12 @@
-# Unit 15 — Capstone Build Sprint and Showcase
-## Topic 1: Specification and Build
-
-*(Covers: Writing a formal problem statement and 1-page specification · Building the Python orchestration layer · Writing a 5-role context-engineered system prompt · Producing structured JSON output and validating it)*
-
+---
+layout: lesson
+title: "Specification and Build"
+section: "Capstone Build Sprint and Showcase"
+section_order: 15
+order: 1
+nav_order: "1501"
+permalink: /capstone-build-sprint-and-showcase/specification-and-build/
+covers: "Writing a formal problem statement and 1-page specification · Building the Python orchestration layer · Writing a 5-role context-engineered system prompt · Producing structured JSON output and validating it"
 ---
 
 ## 1. Learning Objectives

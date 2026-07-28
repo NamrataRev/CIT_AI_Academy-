@@ -1,8 +1,12 @@
-# Unit 5 — AI Ethics, Safety and Governance
-## Topic 2: Ethical Principles
-
-*(Covers: The four pillars — fairness, transparency, accountability, harm prevention)*
-
+---
+layout: lesson
+title: "Ethical Principles"
+section: "AI Ethics, Safety and Governance"
+section_order: 5
+order: 2
+nav_order: "0502"
+permalink: /ai-ethics-safety-and-governance/ethical-principles/
+covers: "The four pillars — fairness, transparency, accountability, harm prevention"
 ---
 
 ## 1. Learning Objectives

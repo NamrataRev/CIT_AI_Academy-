@@ -1,8 +1,12 @@
-# Unit 11 — Python Foundations I
-## Topic 3: Professional Coding Discipline
-
-*(Covers: Spec-first discipline — writing the plain-English specification before writing or prompting code · The golden rule — never run code you cannot explain line by line · Edge cases — testing what happens at the boundary of expected input)*
-
+---
+layout: lesson
+title: "Professional Coding Discipline"
+section: "Python Foundations I"
+section_order: 11
+order: 3
+nav_order: "1103"
+permalink: /python-foundations-i/professional-coding-discipline/
+covers: "Spec-first discipline — writing the plain-English specification before writing or prompting code · The golden rule — never run code you cannot explain line by line · Edge cases — testing what happens at the boundary of expected input"
 ---
 
 ## 1. Learning Objectives

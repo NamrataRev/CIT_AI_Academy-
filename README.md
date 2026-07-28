@@ -1,50 +1,60 @@
 # CIT AI-Native Engineering Program — Year 1, Semester 1
 
 A complete learning path for Revature's **CIT AI-Native Engineering** track — from how
-machines think through to building, evaluating, and shipping production AI.
+machines think through to building, evaluating, and shipping production AI. The course is
+published as a **Jekyll** website hosted on GitHub Pages.
 
 ## 🌐 Live site
 
 **https://namratarev.github.io/CIT_AI_Academy-/**
 
-The site is a professional, Revature-branded course website generated from the markdown
-content in [`modules/`](modules). It has 15 sections and 56 lessons, with grouped sidebar
-navigation, breadcrumbs, previous/next links, light/dark mode, and rendered diagrams,
-tables, and code.
+15 sections · 56 lessons · Revature-branded, with grouped sidebar navigation, breadcrumbs,
+previous/next links, light/dark mode, and rendered tables, code, and Mermaid diagrams.
 
-## Repository structure
+## How it works
+
+The site is a Jekyll project that GitHub Pages builds automatically on every push to
+`main` — no build step to run or commit yourself.
 
 | Path | Description |
 |---|---|
-| `modules/` | Course content — one folder per section, one markdown file per lesson. |
-| `reference-materials/` | Supplementary resources, advanced topics, and release notes. |
-| `build_site.py` | Static-site generator: converts every lesson markdown file into a branded HTML page. |
-| `assets_data.py` | Branding assets (CSS, JavaScript, Revature logo) used by the generator. |
-| `.github/workflows/deploy-pages.yml` | GitHub Actions workflow that builds and deploys the site to GitHub Pages. |
-| `requirements.txt` | Python dependencies for the generator. |
-| `site/` | Generated output (not tracked in git — built automatically in CI). |
+| `modules/` | Course content — one markdown file per lesson, each with Jekyll front matter (`title`, `section`, `order`, `permalink`). These files **are** the site pages. |
+| `_layouts/` | Page templates: `default`, `lesson`, `home`. |
+| `_includes/` | Reusable partials: site `<head>` and the section sidebar. |
+| `assets/` | CSS, JavaScript (theme toggle + Mermaid), and the Revature logo. |
+| `index.md` | Home page (hero + section cards). |
+| `_config.yml` | Jekyll configuration (base URL, Markdown/Rouge settings, excludes). |
+| `build_jekyll.py` | One-off helper that injected front matter into `modules/*.md`. Re-runnable and idempotent — new lesson files that lack front matter get it added. |
+| `reference-materials/` | Supplementary notes (excluded from the built site). |
 
-## Building the site locally
+Sections are labelled by their descriptive titles (e.g. *How Machines Think*), not by unit
+numbers.
 
-Requires Python 3.
+## Editing content
+
+Edit the markdown under `modules/` and push to `main` — the live site rebuilds
+automatically. Keep the front matter block at the top of each file intact.
+
+To add a **new lesson**, create a markdown file in the relevant `modules/unit-XX-.../`
+folder and either add a front matter block by hand or run:
 
 ```bash
-pip install -r requirements.txt
-python build_site.py
+python build_jekyll.py
 ```
 
-The site is generated into the `site/` folder. To preview it with working diagrams and
-fonts, serve it over a local web server:
+## Running locally (optional)
+
+Requires Ruby + Bundler.
 
 ```bash
-cd site
-python -m http.server 8000
+bundle install
+bundle exec jekyll serve
 ```
 
-Then open **http://localhost:8000**.
+Then open the local URL Jekyll prints (typically http://localhost:4000/CIT_AI_Academy-/).
 
-## Deployment
+## Deployment (one-time setup)
 
-Every push to the `main` branch triggers the GitHub Actions workflow, which rebuilds the
-site from source and publishes it to GitHub Pages — so the live site always reflects the
-latest content in `modules/`. No generated HTML is committed to the repository.
+In the GitHub repo: **Settings → Pages → Build and deployment → Source → Deploy from a
+branch**, then choose branch **`main`** and folder **`/ (root)`**. GitHub builds the Jekyll
+site and publishes it at the live URL above.
