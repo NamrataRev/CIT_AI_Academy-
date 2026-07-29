@@ -1,8 +1,8 @@
-# CIT AI-Native Engineering Program — Year 1, Semester 1
+# Foundations of Responsible AI Engineering — Year 1, Semester 1
 
-A complete learning path for Revature's **CIT AI-Native Engineering** track — from how
-machines think through to building, evaluating, and shipping production AI. The course is
-published as a **Jekyll** website hosted on GitHub Pages.
+A complete learning path for Revature's **Foundations of Responsible AI Engineering**
+track — from how machines think through to building, evaluating, and shipping production
+AI. The course is published as a **Jekyll** website hosted on GitHub Pages.
 
 ## 🌐 Live site
 

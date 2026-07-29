@@ -55,7 +55,7 @@ a:hover{text-decoration:underline}
 .site-header{position:sticky;top:0;z-index:100;height:var(--header-h);display:flex;align-items:center;gap:14px;
   padding:0 20px;background:var(--header-bg);border-bottom:1px solid var(--border)}
 .brand{display:flex;align-items:center;gap:12px;text-decoration:none!important}
-.brand-logo{height:26px;width:auto;display:block}
+.brand-logo{height:30px;width:auto;display:block;border-radius:6px}
 .brand-divider{width:1px;height:24px;background:var(--border-strong)}
 .brand-text{color:var(--text);font-size:14px;font-weight:500;letter-spacing:.2px;white-space:nowrap}
 .brand-text strong{color:var(--brand-navy);font-weight:700}
