@@ -9,7 +9,7 @@
   --surface:#ffffff;
   --surface-2:#fafbfc;
   --sidebar-bg:#ffffff;
-  --header-bg:#ffffff;
+  --header-bg:#fcecdd;        /* very light shade of the Revature orange */
   --text:#1f2a37;
   --text-strong:#12202f;
   --muted:#64748b;
@@ -53,7 +53,11 @@ a:hover{text-decoration:underline}
 
 /* Header */
 .site-header{position:sticky;top:0;z-index:100;height:var(--header-h);display:flex;align-items:center;gap:14px;
-  padding:0 20px;background:var(--header-bg);border-bottom:1px solid var(--border)}
+  padding:0 20px;background:var(--header-bg);border-bottom:1px solid rgba(217,119,46,.22)}
+:root[data-theme="dark"] .site-header{border-bottom:1px solid var(--border)}
+.site-title{position:absolute;left:50%;transform:translateX(-50%);font-weight:700;font-size:16.5px;
+  letter-spacing:.2px;color:var(--brand-navy);white-space:nowrap;text-align:center;pointer-events:none}
+:root[data-theme="dark"] .site-title{color:#ffffff}
 .brand{display:flex;align-items:center;gap:12px;text-decoration:none!important}
 .brand-logo{height:40px;width:auto;display:block;color:var(--brand-navy)}
 .brand-logo .logo-word{fill:currentColor}
@@ -220,8 +224,10 @@ a:hover{text-decoration:underline}
   body.nav-open .nav-scrim{display:block;position:fixed;inset:var(--header-h) 0 0 0;background:rgba(10,18,28,.45);z-index:80}
   .content{max-width:none}
 }
+@media (max-width:760px){
+  .site-title{display:none}
+}
 @media (max-width:560px){
-  .brand-text{display:none}
   .hero-stats{gap:26px}
   .pager{flex-direction:column}
   .pager-link,.pager-link.next{max-width:none;text-align:left;margin-left:0}
